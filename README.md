@@ -1,4 +1,4 @@
-# 8x8-RGB-Dotmatrix-Kontol-
+# 8x8-RGB-Dotmatrix-Kontrol
 Bilgisayar üzerinden C# arayüzü ile 8x8 RGB Dotmatrix kontrolü
 Bu proje; Visual Stidio'da [.NET FrameWork 4.5.2] oluşturululmuş bir arayüz ile bluetoot üzerinden, 8x8 RGB Dot Matrix displayi kontrol etmektedir.
 
